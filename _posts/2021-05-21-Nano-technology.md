@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nanotechnology
+title: Nano-technology
 ---
 
 
