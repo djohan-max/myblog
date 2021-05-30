@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+ > Hey there! For those who are interested in social media and want to become well known i propose for you a <b>book</b> you can download it from download section thank me later :)
 
 
-[jekyll-organization]: https://github.com/jekyll
+## About jekyll
+Transform your plain text into static websites and blogs.
+
+
+## Free hosting with GitHub Pages
+Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+about the setup of this project include:
+
+* Built for [Jekyll](https://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/Djohan-max/issues/new) or [ask me on facebook](https://www.facebook.com/dirard).
+
+Thanks for reading!
