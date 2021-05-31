@@ -26,7 +26,16 @@ baseurl: "/myblog/" # the subpath of your site, e.g. /blog
 url: "https://djohan-max.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Dhirar
 github_username:  djohan-max
+instagram_username: setifendhirar
+facebook_username: setifen-dhirar
+author: Dhirar Djehiche.
 
+
+copyright: All reserved for Dhirar
+
+
+
+title-logo: /images/logo.png
 # Build settings
 #removed minima theme
 #theme: minima
