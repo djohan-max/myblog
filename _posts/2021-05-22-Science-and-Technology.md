@@ -3,7 +3,7 @@ layout: post
 title: Science and Technology
 ---
 
-![pic](\assets\pcwlcm.png)
+![pic](assets/pcwlcm.png)
 
 ##  How Science and Technology Are for Society
 
