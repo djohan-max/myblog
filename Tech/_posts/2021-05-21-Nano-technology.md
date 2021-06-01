@@ -4,10 +4,11 @@ title: Nano-technology
 category: Tech
 ---
 
-> **nanotechnology it's the future of manufacturing**
+![My helpful screenshot](/myblog/assets/images/2.jpg))
 
 <br>
 
+> **nanotechnology it's the future of manufacturing**
 
 ## **What is Nanotechnology?**
 Nanotechnology is a field of research and innovation concerned with building 'things' - generally, materials and devices - on the scale of atoms and molecules. A nanometre is one-billionth of a metre: ten times the diameter of a hydrogen atom. The diameter of a human hair is, on average, 80,000 nanometres. At such scales, the ordinary rules of physics and chemistry no longer apply. For instance, materials' characteristics, such as their colour, strength, conductivity and reactivity, can differ substantially between the nanoscale and the macro. Carbon 'nanotubes' are 100 times stronger than steel but six times lighter.

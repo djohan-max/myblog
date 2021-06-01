@@ -6,3 +6,4 @@ layout: home-Tech
 title: Tech News
 category: Tech
 ---
+![pcwelcming](/myblog/assets/images/pcwlcm.png)

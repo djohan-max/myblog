@@ -4,10 +4,12 @@ title: Science and Technology
 category: Tech
 ---
 
- > **Science** encompasses the systematic study of the structure and behaviour of the physical and natural world through observation and experiment, and **technology** is the application of scientific knowledge for practical purposes
- 
+![My helpful screenshot](/myblog/assets/images/1.jpg))
+
 <br>
 
+ > **Science** encompasses the systematic study of the structure and behaviour of the physical and natural world through observation and experiment, and **technology** is the application of scientific knowledge for practical purposes
+ 
 ##  How Science and Technology Are for Society
 
 Scientific and technological activities refers to
