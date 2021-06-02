@@ -7,10 +7,18 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click To Show Time.</button>
+
+<p id="demo"></p>
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "All Posts " }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
