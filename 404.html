@@ -5,8 +5,10 @@ layout: default
 
 <style type="text/css" media="screen">
   .container { 
-    margin: 10px auto;
-    max-width: 600px;
+    background-image: url(/myblog/assets/images/404.jpg);
+    background-size: cover;
+    margin: inset;
+    padding: 130px 80px 130px 80px;
     text-align: center;
   }
   h1 { 
@@ -15,11 +17,19 @@ layout: default
     line-height: 1;
     letter-spacing: -1px;
   }
+  mark {
+  background-color:whitesmoke;
+  color:blueviolet;
+}
 </style>
 
-<div class="container" >
+<div class="container" style="color: darkred;">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p>
+   <h2> <strong>Page not found :(</strong></h2>
+  </p>
+  <p style="color:rgb(39, 146, 218);">
+      <mark>requested page could not be found.</mark> 
+    </p>
 </div>

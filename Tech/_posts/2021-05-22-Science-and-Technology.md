@@ -30,12 +30,12 @@ activities, and the role of science in this knowledge
 creation is important for the realization of “science
 and technology for society.” 
 
-![fugr1](/assets/s/1.jpg)
+
 <br>
 
 ## New Policy Developments Related to Science and Technology for Society :
 
-###  Scientific and Technological Progress Related to Safety and Security 
+**Scientific and Technological Progress Related to Safety and Security**
 The multiple terror attacks of September 11,
 2001 killed several thousand victims in an instant,
 an attack unparalleled in international society.

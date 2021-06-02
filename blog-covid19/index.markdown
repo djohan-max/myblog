@@ -6,4 +6,4 @@ layout: home-covid
 title: Covid News
 category: Hot-News
 ---
-![My helpful screenshot](/myblog/assets/images/covid-19.png))
+![My helpful screenshot](/myblog/assets/images/covid-19.png)

@@ -5,18 +5,27 @@ permalink: /about/
 ---
 
 <br>
- > Hey there! For those who are interested in social media and want to become well known i propose for you a <b>book</b> you can download it from download section thank me later :)
+
+ > ##  Hey there! 
+
+ <br>
 
 
-## About jekyll
-Transform your plain text into static websites and blogs.
+## *This website is a blog containe pages and posts based on jekyll*
 
+<br>
 
-## Free hosting with GitHub Pages
+### jekyll
+>Transform your plain text into static websites and blogs.
+
+<br>
+
+### Free hosting with GitHub Pages
 Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
 Learn more and contribute on [GitHub](https://github.com/poole).
+<br>
 
-## Setup
+### Setup
 
 about the setup of this project include:
 
