@@ -5,5 +5,6 @@
 layout: home-covid
 title: Covid News
 category: Hot-News
+permalink: Covid-News
 ---
 ![My helpful screenshot](/myblog/assets/images/covid-19.png)

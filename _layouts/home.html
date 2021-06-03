@@ -6,14 +6,32 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+  <!---->
+  <style>
+    
+        .move_right {
+           margin-left:57%;
+             }
+  </style>
+  <script>
+    function openWin() {
+      window.open("/myblog/Covid-News",'_top');
+    }
+    function openWin1() {
+      window.open("/myblog/Tech-News",'_top');
+    }
+  </script>
+    <form>
+      <input type="button" value="Covid-News" onclick="openWin()" style="color: cornflowerblue;"> <input type="button" value="Tech-News" onclick="openWin1()"style="color: cornflowerblue;"> <button class="move_right" type="button" style="color: cornflowerblue;"
+      onclick="document.getElementById('demo').innerHTML = Date()">
+      Click To Show Time.</button>
+      <p id="demo" style="color: cornflowerblue;"></p>
+    </form>
+    
 
+<!---->
 
-
-<button type="button" style="color: cornflowerblue;"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click To Show Time.</button>
-
-<p id="demo"></p>
+<br>
 
   {{ content }}
 

@@ -5,5 +5,6 @@
 layout: home-Tech
 title: Tech News
 category: Tech
+permalink: Tech-News
 ---
 ![pcwelcming](/myblog/assets/images/pcwlcm.png)
