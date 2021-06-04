@@ -11,6 +11,10 @@
   position: relative;
 }
 
+.move_right {
+  margin-left: 55% ;
+    }
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
