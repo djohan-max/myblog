@@ -13,13 +13,13 @@
 
 .move_right {
   margin-left: 30% ;
-  position:absolute;
+  position: relative;
     }
 
 .buttn{
   color: cornflowerblue; 
   border-radius: 15px;
-  box-shadow: inset 0 0 0.5em 0 cornflowerblue, 0 0 0.5em 0 violet;
+  box-shadow:0 0 0.5em 0 cornflowerblue,inset 0 0 0.5em 0 violet;
 }
 
 .site-title {
